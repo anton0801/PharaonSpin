@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "37da06dcd932c63c93278d322fa23157c3d73367af9878d50411a60e7b1a208e"
+build_start_time: [1790099344, 424307000]
+build_end_time: [1790099352, 274988000]
+inputs:
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Tests/SlotCoreTests/IndependenceTests.swift": [1790099310, 505879501]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Tests/SlotCoreTests/ReturnToPlayerTests.swift": [1790099293, 168927393]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Tests/SlotCoreTests/SlotMachineTests.swift": [1790099264, 337580108]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Tests/SlotCoreTests/TestSupport.swift": [1790099235, 868070484]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Tests/SlotCoreTests/WalletAndEconomyTests.swift": [1790099325, 868893562]

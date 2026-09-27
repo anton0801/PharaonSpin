@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "d8d53aae8ae3b307f844ce4ec3ac5bdd38f6f3aa826276b088955196108317b0"
+build_start_time: [1790099352, 359235000]
+build_end_time: [1790099353, 506735000]
+inputs:
+  ? "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift"
+  : [1790099339, 446482284]

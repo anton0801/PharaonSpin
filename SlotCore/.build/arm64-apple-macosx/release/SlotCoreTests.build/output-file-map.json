@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotCoreTests.d",
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotCoreTests.o",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/master.swiftdeps"
+  },
+  "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/IndependenceTests.swift": {
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/IndependenceTests.swift.o",
+    "swiftmodule": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/IndependenceTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/IndependenceTests.swiftdeps"
+  },
+  "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/ReturnToPlayerTests.swift": {
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/ReturnToPlayerTests.swift.o",
+    "swiftmodule": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/ReturnToPlayerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/ReturnToPlayerTests.swiftdeps"
+  },
+  "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/SlotMachineTests.swift": {
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotMachineTests.swift.o",
+    "swiftmodule": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotMachineTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotMachineTests.swiftdeps"
+  },
+  "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/TestSupport.swift": {
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/TestSupport.swift.o",
+    "swiftmodule": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/TestSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/TestSupport.swiftdeps"
+  },
+  "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/WalletAndEconomyTests.swift": {
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/WalletAndEconomyTests.swift.o",
+    "swiftmodule": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/WalletAndEconomyTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/WalletAndEconomyTests.swiftdeps"
+  }
+}

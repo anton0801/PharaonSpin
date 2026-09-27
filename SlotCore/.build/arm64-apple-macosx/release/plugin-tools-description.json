@@ -1,0 +1,823 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.xctest/Contents/MacOS/SlotCorePackageTests",
+      "packagePath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore",
+      "productName" : "SlotCorePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SlotCore-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/sources",
+      "importPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Economy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/FortuneWheel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/RandomSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotGame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMachine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMath.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotSymbol.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Wallet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SlotCore",
+      "moduleOutputPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCore.swiftmodule",
+      "objects" : [
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/Economy.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/FortuneWheel.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/RandomSource.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotConfiguration.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotGame.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotMachine.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotMath.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotSymbol.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/Wallet.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-O",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotCore-Swift.h",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "slotcore"
+      ],
+      "outputFileMapPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/Economy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/FortuneWheel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/RandomSource.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotGame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotMachine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotMath.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotSymbol.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/Wallet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Economy.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/FortuneWheel.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/RandomSource.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotConfiguration.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotGame.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMachine.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMath.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotSymbol.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Wallet.swift"
+      ],
+      "tempsPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.SlotCorePackageTests-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/sources",
+      "importPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SlotCorePackageTests",
+      "moduleOutputPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCorePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/SlotCorePackageTests-Swift.h",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "slotcore"
+      ],
+      "outputFileMapPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCorePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.SlotCoreTests-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/sources",
+      "importPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/IndependenceTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/ReturnToPlayerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/SlotMachineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/TestSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/WalletAndEconomyTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SlotCoreTests",
+      "moduleOutputPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCoreTests.swiftmodule",
+      "objects" : [
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/IndependenceTests.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/ReturnToPlayerTests.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotMachineTests.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/TestSupport.swift.o",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/WalletAndEconomyTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-index-store-path",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/index/store",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "slotcore"
+      ],
+      "outputFileMapPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/IndependenceTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/ReturnToPlayerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotMachineTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/TestSupport.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/WalletAndEconomyTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules/SlotCoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/IndependenceTests.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/ReturnToPlayerTests.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/SlotMachineTests.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/TestSupport.swift",
+        "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/WalletAndEconomyTests.swift"
+      ],
+      "tempsPath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "SlotCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SlotCore",
+      "-package-name",
+      "slotcore",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Economy.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/FortuneWheel.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/RandomSource.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotConfiguration.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotGame.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMachine.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMath.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotSymbol.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Wallet.swift",
+      "-I",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-O",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotCore-Swift.h",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "slotcore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SlotCorePackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SlotCorePackageTests",
+      "-package-name",
+      "slotcore",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/SlotCorePackageTests-Swift.h",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "slotcore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SlotCoreTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SlotCoreTests",
+      "-package-name",
+      "slotcore",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/IndependenceTests.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/ReturnToPlayerTests.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/SlotMachineTests.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/TestSupport.swift",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/WalletAndEconomyTests.swift",
+      "-I",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-index-store-path",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/index/store",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "slotcore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "SlotCore" : [
+
+    ],
+    "SlotCorePackageTests" : [
+      "SlotCoreTests",
+      "SlotCore"
+    ],
+    "SlotCoreTests" : [
+      "SlotCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Economy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/FortuneWheel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/RandomSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotGame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMachine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotMath.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/SlotSymbol.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Sources/SlotCore/Wallet.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/sources"
+    },
+    "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/sources"
+    },
+    "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/Economy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/FortuneWheel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/RandomSource.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotGame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotMachine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotMath.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/SlotSymbol.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCore.build/Wallet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/IndependenceTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/ReturnToPlayerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/SlotMachineTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/TestSupport.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/WalletAndEconomyTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/IndependenceTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/ReturnToPlayerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/SlotMachineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/TestSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/Tests/SlotCoreTests/WalletAndEconomyTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCoreTests.build/sources"
+    },
+    "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

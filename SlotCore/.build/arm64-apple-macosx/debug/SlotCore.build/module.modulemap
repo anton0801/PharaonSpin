@@ -1,0 +1,4 @@
+module SlotCore {
+    header "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/debug/SlotCore.build/SlotCore-Swift.h"
+    requires objc
+}

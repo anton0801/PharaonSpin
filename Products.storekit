@@ -1,0 +1,77 @@
+{
+  "identifier": "5C0E5709",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "0.99",
+      "familyShareable": false,
+      "internalID": "6739000001",
+      "localizations": [
+        {
+          "description": "250,000 coins for entertainment only. No cash value.",
+          "displayName": "Starter \u2014 250,000 coins",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "app.PharaonSpin.coins.starter",
+      "referenceName": "Starter 250,000 coins",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "6739000002",
+      "localizations": [
+        {
+          "description": "1,000,000 coins for entertainment only. No cash value.",
+          "displayName": "Stack \u2014 1,000,000 coins",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "app.PharaonSpin.coins.stack",
+      "referenceName": "Stack 1,000,000 coins",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "8.99",
+      "familyShareable": false,
+      "internalID": "6739000003",
+      "localizations": [
+        {
+          "description": "3,000,000 coins for entertainment only. No cash value.",
+          "displayName": "Vault \u2014 3,000,000 coins",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "app.PharaonSpin.coins.vault",
+      "referenceName": "Vault 3,000,000 coins",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "23.99",
+      "familyShareable": false,
+      "internalID": "6739000004",
+      "localizations": [
+        {
+          "description": "10,000,000 coins for entertainment only. No cash value.",
+          "displayName": "Pharaoh \u2014 10,000,000 coins",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "app.PharaonSpin.coins.pharaoh",
+      "referenceName": "Pharaoh 10,000,000 coins",
+      "type": "Consumable"
+    }
+  ],
+  "settings": {
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

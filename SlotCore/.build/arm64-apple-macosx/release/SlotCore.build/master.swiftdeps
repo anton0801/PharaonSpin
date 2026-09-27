@@ -1,0 +1,14 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "4d90ea2dbccb19469ba11a88bc05ac860bc2c7702b504609fdb6ebfd5cdaa53c"
+build_start_time: [1790099339, 675925000]
+build_end_time: [1790099344, 174954000]
+inputs:
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/Economy.swift": [1790099195, 266009805]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/FortuneWheel.swift": [1790099125, 725790992]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/RandomSource.swift": [1790098989, 296463005]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/SlotConfiguration.swift": [1790099061, 571480310]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/SlotGame.swift": [1790099092, 560795816]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/SlotMachine.swift": [1790099176, 26665185]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/SlotMath.swift": [1790099166, 997192730]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/SlotSymbol.swift": [1790098992, 180644589]
+  "/Users/antondanilov/Desktop/betwave_\u043F\u0440\u0438\u043B\u044B/PharaonSpin/SlotCore/Sources/SlotCore/Wallet.swift": [1790099070, 906489826]

@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/SlotCorePackageTests.d",
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/SlotCorePackageTests.o",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/master.swiftdeps"
+  },
+  "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.derived/runner.swift": {
+    "object": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/antondanilov/Desktop/betwave_прилы/PharaonSpin/SlotCore/.build/arm64-apple-macosx/release/SlotCorePackageTests.build/runner.swiftdeps"
+  }
+}
